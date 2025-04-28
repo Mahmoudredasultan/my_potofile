@@ -269,6 +269,7 @@ ul{
   font-size: 20px;
 }
 .helo{
+  width: 100%;
   position: absolute;
   top: 770px;
 }
